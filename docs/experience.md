@@ -112,5 +112,3 @@ Cumulative GPA: 3.74
 - **Certifications:** 3D Printing Certification (University of Tennessee Knoxville, 2025)
 
 ---
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
